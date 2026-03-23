@@ -37,125 +37,85 @@ HAVING condition;
 ```
 
 **Question 1**
---
--- Paste Question 1 here
 
-```sql
--- Paste your SQL code below for Question 1
-```
+<img width="945" height="387" alt="image" src="https://github.com/user-attachments/assets/600dfe77-e147-40fe-942f-eb89e68034ae" />
 
 **Output:**
 
-![Output1](output.png)
+<img width="1302" height="959" alt="image" src="https://github.com/user-attachments/assets/fc13462c-442c-4b8f-99ee-2f808cc68a48" />
 
 **Question 2**
----
--- Paste Question 2 here
 
-```sql
--- Paste your SQL code below for Question 2
-```
+<img width="1097" height="424" alt="image" src="https://github.com/user-attachments/assets/414f8896-3ac9-463a-add4-4a0d13a6416e" />
 
 **Output:**
 
-![Output2](output.png)
+<img width="1312" height="997" alt="image" src="https://github.com/user-attachments/assets/99b64388-39c3-4496-ab72-ff1769d9bfc1" />
 
 **Question 3**
----
--- Paste Question 3 here
 
-```sql
--- Paste your SQL code below for Question 3
-```
+<img width="877" height="442" alt="image" src="https://github.com/user-attachments/assets/8d07d738-073e-4c1d-a3ee-aad230434511" />
 
 **Output:**
 
-![Output3](output.png)
+<img width="1328" height="909" alt="image" src="https://github.com/user-attachments/assets/5cff023b-3918-4228-bbb2-982fd2c42501" />
 
 **Question 4**
----
--- Paste Question 4 here
 
-```sql
--- Paste your SQL code below for Question 4
-```
+<img width="899" height="389" alt="image" src="https://github.com/user-attachments/assets/e9a90b7d-3db1-4a20-a503-58e1643d01a4" />
 
 **Output:**
 
-![Output4](output.png)
+<img width="1296" height="748" alt="image" src="https://github.com/user-attachments/assets/46c3387e-eccf-472a-849c-911481a80043" />
 
 **Question 5**
----
--- Paste Question 5 here
 
-```sql
--- Paste your SQL code below for Question 5
-```
+<img width="1024" height="362" alt="image" src="https://github.com/user-attachments/assets/148284f6-4f1d-40ca-84c2-195100d8177c" />
 
 **Output:**
 
-![Output5](output.png)
+<img width="1304" height="752" alt="image" src="https://github.com/user-attachments/assets/9deec0ff-db0b-431a-86d4-0e85f97b5f04" />
 
 **Question 6**
----
--- Paste Question 6 here
 
-```sql
--- Paste your SQL code below for Question 6
-```
+<img width="761" height="371" alt="image" src="https://github.com/user-attachments/assets/773e63ff-8ca9-48c3-ba2c-1bda69e03f17" />
 
 **Output:**
 
-![Output6](output.png)
+<img width="1314" height="745" alt="image" src="https://github.com/user-attachments/assets/5d8ebcff-c6e2-4b8e-8800-fb3fa482c38a" />
 
 **Question 7**
----
--- Paste Question 7 here
 
-```sql
--- Paste your SQL code below for Question 7
-```
+<img width="784" height="358" alt="image" src="https://github.com/user-attachments/assets/277c4648-536f-419b-ac62-d5c9ffb8b685" />
+
 
 **Output:**
 
-![Output7](output.png)
+<img width="1310" height="761" alt="image" src="https://github.com/user-attachments/assets/1029c93c-8caa-421e-99bb-d552eb98c9f8" />
 
 **Question 8**
----
--- Paste Question 8 here
 
-```sql
--- Paste your SQL code below for Question 8
-```
+<img width="1316" height="360" alt="image" src="https://github.com/user-attachments/assets/5bab64c3-4609-4c94-b496-8bdc1735ea0b" />
 
 **Output:**
 
-![Output8](output.png)
+<img width="1313" height="747" alt="image" src="https://github.com/user-attachments/assets/4561a67a-886e-4670-ad3f-a3360d299922" />
 
 **Question 9**
----
--- Paste Question 9 here
 
-```sql
--- Paste your SQL code below for Question 9
-```
+<img width="1295" height="382" alt="image" src="https://github.com/user-attachments/assets/d3130358-8af9-4d71-92f2-3ca303bb1e7b" />
 
 **Output:**
 
-![Output9](output.png)
+<img width="1305" height="826" alt="image" src="https://github.com/user-attachments/assets/8f556aa8-6247-43f5-be25-fcd53f418aa0" />
 
 **Question 10**
----
--- Paste Question 10 here
 
-```sql
--- Paste your SQL code below for Question 10
-```
+<img width="1292" height="382" alt="image" src="https://github.com/user-attachments/assets/4f728ab2-1af4-47f3-82d7-feae8b4bda01" />
 
 **Output:**
 
-![Output10](output.png)
-
+<img width="1309" height="786" alt="image" src="https://github.com/user-attachments/assets/b964fec2-4ed7-4676-acd7-28e36f318e05" />
 
 ## RESULT
 Thus, the SQL queries to implement aggregate functions, GROUP BY, and HAVING clause have been executed successfully.
